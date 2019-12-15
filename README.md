@@ -14,4 +14,4 @@ As you can see from the plot describing just the districts, Mongolia's administr
 
 ## Population of Ghana's regions
 
-![](Ghana.2019.png)
+![](ghana2019.png)
