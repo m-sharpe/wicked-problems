@@ -45,5 +45,17 @@ Similar to plot #1, urban areas are shown as highly populated, this plot does th
 The highest amount of controversy between plots 1 and 2 occurs in highly populated areas -- with the majority of the country's population development staying in sync with past predictions. In general compared to my predition plot, the 2015 plot overpredicted populations in city centers and underpredicted populations in the outskirts of cities.
 
 ![](3Dmeans.png)
+
+## Ghana human settlements, roadways, and healthcare facilities
+
+![](combined2.png)
+
+This plot demonstrates the population and density of settlements within the two districts Kwabre and Atwima. Both are in the Ashanti region
+
+Next, I added roadways and healthcare facilities
+
+![](proj3final.png)
+
+The main take-away from this plot is the urban center which Kwabre and Atwima surround. Since roads lead to the same place, all clinics (green) and hospitals (blue) are where the roads intersect, and the urban areas the Kwabre and Atwima all are centered around the same location, we can assume there is a big city at its center. Further research showed that this city is Kumasi, the second largest city in the nation.  
  
 
