@@ -33,7 +33,11 @@ Note: Though for most the most accurate plots are the one that have the log of p
 
 ![](populationmeans.png)
 
+This plot begins to show urban areas. Most highly populated areas are in the regions which past plots have shown to be highly populated/dense.
+
 ![](diffmeans.png)
+
+The highest amount of controversy occurs in highly populated areas -- with the majority of the country's population development staying in sync with past predictions.
 
 ![](3Dmeans.png)
 
