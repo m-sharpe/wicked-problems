@@ -22,3 +22,4 @@ The above plot and chart demonstrate the population density in Ghana within its 
 
 The histogram above describes the most common population numbers in Ghana. This histogram helps confirm what is shown in the plot and chart above, as very few areas are very densily populated, instead, most are faily lowly populated. The two bars to the very right are clearly the Greater Accra and Shanti regions, while the majority of population numbers are much lower.
 
+## Ghana population means
