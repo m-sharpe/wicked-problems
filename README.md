@@ -50,9 +50,10 @@ The highest amount of controversy between plots 1 and 2 occurs in highly populat
 
 ![](combined2.png)
 
-This plot demonstrates the population and density of settlements within the two districts Kwabre and Atwima. Both are in the Ashanti region
+This plot demonstrates the population and density of settlements within the two districts Kwabre and Atwima. Both are in the Ashanti region.
 
-Next, I added roadways and healthcare facilities
+
+Next, I added roadways and healthcare facilities:
 
 ![](proj3final.png)
 
