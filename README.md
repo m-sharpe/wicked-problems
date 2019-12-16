@@ -18,4 +18,4 @@ As you can see from the plot describing just the districts, Mongolia's administr
 
 The above plot and chart demonstrate the population density in Ghana within its regional boundaries. The highest densities are within the Ashanti region and Greater Accra -- the historical/cultural center and modern trading hub. In general, there is a higher density towards the southern part of the country as this is where Ghana borders the ocean. In the north lies the Saharah desert, a less habitable and more formidable climate to live in. 
 
-![](rplot1.png)
+![](rplot1)
