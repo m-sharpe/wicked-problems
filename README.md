@@ -59,4 +59,6 @@ Next, I added roadways and healthcare facilities:
 
 The main take-away from this plot is the urban center which Kwabre and Atwima surround. Since roads lead to the same place, all clinics (green) and hospitals (blue) are where the roads intersect, and the urban areas the Kwabre and Atwima all are centered around the same location, we can assume there is a big city at its center. Further research showed that this city is Kumasi, the second largest city in the nation.  
  
+![](proj4week1final.png)
 
+Above is a 3D plot which also considers the topography of the region. This new information shows that the countries cultural hub is in a plateau surrounded by mountains. Therefore, the area in which most people reside is flat, making transportation easier. 
