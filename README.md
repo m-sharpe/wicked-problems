@@ -35,5 +35,5 @@ Note: Though for most the most accurate plots are the one that have the log of p
 
 ![](diffmeans.png)
 
-![]
+![](3Dmeans.png)
 
