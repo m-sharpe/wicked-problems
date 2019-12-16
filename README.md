@@ -37,7 +37,7 @@ This plot begins to show urban areas. Most highly populated areas are in the reg
 
 ![](diffmeans.png)
 
-The highest amount of controversy occurs in highly populated areas -- with the majority of the country's population development staying in sync with past predictions.
+The highest amount of controversy occurs in highly populated areas -- with the majority of the country's population development staying in sync with past predictions. Most overpredictions occur in city centers while underpredictions are in city outskirts. 
 
 ![](3Dmeans.png)
 
