@@ -20,7 +20,7 @@ The above plot and chart demonstrate the population density in Ghana within its 
 
 ![](rplot1.png)
 
-The histogram above describes the most common population numbers in Ghana. This histogram helps confirm what is shown in the plot and chart above, as very few areas are very densily populated, instead, most are faily lowly populated. The two bars to the very right are clearly the Greater Accra and Shanti regions, while the majority of population numbers are much lower.
+The histogram above describes the most common population numbers in Ghana. This histogram helps confirm what is shown in the plot and chart above, as very few areas are very densily populated, instead, most are faily lowly populated. The two bars to the very right are clearly the Greater Accra and Ashanti regions, while the majority of population numbers are much lower.
 
 ## Ghana population means
 
@@ -38,7 +38,7 @@ This plot begins to show urban areas. Most highly populated areas are in the reg
 
 ![](POP15.png)
 
-Similar to plot #1, urban areas are shown as highly populated, this plot does though, demonstrate the location of important roads, as you can see population spikes in vein-like patterns
+Similar to plot #1, urban areas are shown as highly populated, this plot does, though, demonstrate the location of important roads, as you can see population spikes in vein-like patterns
 
 ![](diffmeans.png)
 
@@ -50,7 +50,7 @@ The highest amount of controversy between plots 1 and 2 occurs in highly populat
 
 ![](combined2.png)
 
-This plot demonstrates the population and density of settlements within the two districts Kwabre and Atwima. Both are in the Ashanti region. The first district I plotted is Kwabre (the right-most portion), which has a population of 115,461 and 5 urban areas. The second area, Atwima, has a population of 227,779 with mainly 1 large urban area in the middle right and a small urban area at the top.
+This plot demonstrates the population and density of settlements within the two districts Kwabre and Atwima. Both are in the Ashanti region. The first district I plotted is Kwabre (the right portion), which has a population of 115,461 and 5 urban areas. The second area, Atwima, has a population of 227,779 with mainly 1 large urban area in the middle right and a small urban area at the top.
 
 
 Next, I added roadways and healthcare facilities:
@@ -61,7 +61,7 @@ The main take-away from this plot is that Kwabre and Atwima seem to surround a l
 
 The most prominent road on my plot is a north-south road, which most likely connects the entire country, as it extends throughout the entire plot. I’m assuming that transportation services generally focus on the center of Kumasi, but that networks like buses and trains also have some lines that branch away from the city so that people from the city outskirts (such as those that live in the urban areas of Kwabre and Atwima) can get to and from the city efficiently. Similar to cities such as Chicago, there is a conplex transportation system within the city, but then each mode of transportation also provides routes taking those to and from the downtown area. 
 
-As for health care facilities, they all reside in the city center as well. There are none in Kwabre or Atwima, therefore people living in those districts must go into the city for care. The majority of the facilities are hospitals, with one clinic on the other side of the city from Kwabre and Atwima. Since Kumasi is very prominent and not a new city, health care there should be efficient, and since all hospitals/clinics are in the hub of the city, accessible to many. Since roadways all lead to the same area, it would not be difficult to get to each health care facility or to transport patients from one to another, as long as you lived in the city and other variables such as traffic, weather, and construction do not get in the way. However, if you do not live in the city, it could be difficult to get to a hospital/clinic. Not only are you not close, but roadways thin out substancially the further from the city you get, and transportation services most likely do too. Therefore, living in the city would provide much easier accessability.
+As for health care facilities, they all reside in the city center as well. There are none in Kwabre or Atwima, therefore people living in those districts must go into the city for care. The majority of the facilities are hospitals, with one clinic on the other side of the city from Kwabre and Atwima. Since Kumasi is very prominent and not a new city, health care there should be efficient, and since all hospitals/clinics are in the hub of the city, accessible to many. Since roadways all lead to the same area, it would not be difficult to get to each health care facility or to transport patients from one to another, as long as you lived in the city and other variables such as traffic, weather, and construction do not get in the way. However, if you do not live in the city, it could be difficult to get to a hospital/clinic. Not only are you not close, but roadways thin out substancially the further from the city you get, and transportation services most likely do too. Therefore, living in the city would provide much better accessability.
  
  ![](proj4table.png)
 
@@ -69,7 +69,7 @@ The above table summarizes specificities of the urban areas, roadways and health
  
 ![](proj4week1final.png)
 
-Above is a 3D plot which adds on the variable of topography for the region. This new information shows that the countries cultural hub is in a plateau surrounded by mountains. Therefore, the area in which most people reside is flat, making transportation easier. Since mountains are only shown to be at the very edge of the plot, they are not much of an issue, as it also looks as if they are not highly populated based on the lack of population density on the borders of Kwabre and Atwima. Since the Ashanti region is considered "old Ghana", the land here has been populated by humans for centuries. Therefore, areas most habitable have been inhabited for a long while, and areas more harsh have been left alone -- over the years, people have learned what terrain is more livable than others. The fact that this area is now well established and, as a cultural hub respected, only increases how developed it is. Therefore, the closer you get to Kumasi, the more developed the region is, and the more access to healthcare you have. The city itself is probably very developed as it is a popular tourist destination within the country. The further you get from the city (and consequentially closer to the mountains), the less developed and dense the land is -- there are fewer roads, urban areas, and no healthcare facilities.
+Above is a 3D plot which adds on the variable of topography for the region. This new information shows that the countries cultural hub is in a plateau surrounded by mountains. Therefore, the area in which most people reside is flat, making transportation easier. Since mountains are only shown to be at the very edge of the plot, they are not much of an issue, as it also looks as if they are not highly populated based on the lack of population density on the borders of Kwabre and Atwima. Since the Ashanti region is considered "old Ghana", the land here has been populated by humans for centuries. Areas most habitable have been inhabited for a long while, and areas more harsh have been left alone -- over the years, people have learned what terrain is more livable than others. The fact that this area is now well established and, as a cultural hub respected, only increases how developed it is. Therefore, the closer you get to Kumasi, the more developed the region is, and the more access to healthcare you have. The city itself is probably very developed as it is a popular tourist destination within the country. The further you get from the city (and consequentially closer to the mountains), the less developed and dense the land is -- there are fewer roads, urban areas, and no healthcare facilities.
 
 
 
