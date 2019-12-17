@@ -69,6 +69,6 @@ Above is a 3D plot which also considers the topography of the region. This new i
 
 ![](proj4table.png)
 
-The above table summarizes specificities of the urban areas, roadways and healthcare facilities. However, it is important to note that the populations do not include the city of Kumasi, and therefore when calculating things such as the average population per healthcare facility (3rd collomn), the resulting number will be much higher.  
+The above table summarizes specificities of the urban areas, roadways and healthcare facilities. However, it is important to note that the populations do not include the city of Kumasi, and therefore when calculating things such as the average population per healthcare facility (3rd collumn), the resulting number will be much higher.  
 
 
