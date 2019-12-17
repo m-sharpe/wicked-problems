@@ -50,16 +50,16 @@ The highest amount of controversy between plots 1 and 2 occurs in highly populat
 
 ![](combined2.png)
 
-This plot demonstrates the population and density of settlements within the two districts Kwabre and Atwima. Both are in the Ashanti region. The first district I plotted is Kwabre, which has a population of 115,461 and 5 urban areas. The second area, Atwima, has a population of 227,779 with mainly 1 large urban area in the bottom right and a small urban area at the top.
+This plot demonstrates the population and density of settlements within the two districts Kwabre and Atwima. Both are in the Ashanti region. The first district I plotted is Kwabre (the right-most portion), which has a population of 115,461 and 5 urban areas. The second area, Atwima, has a population of 227,779 with mainly 1 large urban area in the middle right and a small urban area at the top.
 
 
 Next, I added roadways and healthcare facilities:
 
 ![](proj3final.png)
 
-The main take-away from this plot is that Kwabre and Atwima seem to surround a large urban center. Since roads lead to the same place, all clinics (green) and hospitals (blue) are where the roads intersect, and the urban areas the Kwabre and Atwima all are centered around the same location, we can assume there is a big city at its center. Further research showed that this city is Kumasi, the second largest city in the nation.  
+The main take-away from this plot is that Kwabre and Atwima seem to surround a large urban center. Since roads lead to the same relative intersection, all clinics (green) and hospitals (blue) are near this intersection, and the urban areas of Kwabre and Atwima all are centered around the same location, we can assume there is a big city at this center area. Further research showed that this city is Kumasi, the second largest city in the nation.  
 
-The most prominent road on my plot is a north-south road, which most likely connects the entire country, as it extends throughout the entire plot even though all other roads stop at some point.  I’m assuming that transportation services focus on this area (city center), but that networks like buses and trains also have some lines that branch away from the city so that people from the city outskirts (such as those that live in the urban areas of Kwabre and Atwima) can get to and from the city efficiently. 
+The most prominent road on my plot is a north-south road, which most likely connects the entire country, as it extends throughout the entire plot. I’m assuming that transportation services focus on this area (city center), but that networks like buses and trains also have some lines that branch away from the city so that people from the city outskirts (such as those that live in the urban areas of Kwabre and Atwima) can get to and from the city efficiently. 
 
 As for health care facilities, they all reside in the city center as well. There are none in Kwabre or Atwima, therefore people living in those districts must go into the city for care. The majority of the facilities are hospitals, with one clinic on the other side of the city from Kwabre and Atwima. Since Kumasi is very prominent, health care there should be efficient, and since it is in the hub of the city, accessible to many. Since roadways all lead to the same area, it would not be difficult to get to each health care facility, as long as other variables such as traffic, weather, and construction did not get in the way.
  
